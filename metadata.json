@@ -1,0 +1,6 @@
+{
+  "name": "PyStock — Inventory & Stock Analysis System",
+  "description": "Python-powered inventory transaction tracking, configurable reorder threshold alerts, movement velocity analytics, and stock valuation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
